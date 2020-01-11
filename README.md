@@ -1,1 +1,2 @@
 # Akhter
+\alpha +\beta = \gamma
